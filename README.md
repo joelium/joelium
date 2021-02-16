@@ -14,7 +14,7 @@ Taken from dev.to, [How I'm learning Machine Learning without being a math geniu
    - Khan Academy - [Statistics and Probability](https://www.khanacademy.org/math/statistics-probability)
 3. Programming
    - Kaggle
-     - [Python course](https://www.kaggle.com/learn/python)
+     - ~~[Python course](https://www.kaggle.com/learn/python)~~ [Completion Certificate](https://www.kaggle.com/learn/certification/tellurium/python)
      - [Data Visualization](https://www.kaggle.com/learn/data-visualization)
      - [Pandas](https://www.kaggle.com/learn/pandas)
      - [Intro to SQL](https://www.kaggle.com/learn/intro-to-sql)
