@@ -1,3 +1,4 @@
+<!--
 ### Hi there 👋
 
 - 🌱 I’m currently learning data analytics through an apprenticeship.
@@ -25,6 +26,7 @@ Taken from dev.to, [How I'm learning Machine Learning without being a math geniu
    - Andrew Ng - Coursera - [Machine Learning](https://www.coursera.org/learn/machine-learning)
 5. Real World Projects
    - Trading models based on sentiment analysis of data scraped from the web
+-->
 <!--
 **joelium/joelium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
